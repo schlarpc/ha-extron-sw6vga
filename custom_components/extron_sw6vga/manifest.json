@@ -1,0 +1,10 @@
+{
+  "domain": "extron_sw6vga",
+  "name": "Extron SW6VGA Switcher",
+  "version": "1.0.0",
+  "config_flow": true,
+  "documentation": "https://github.com/schlarpc/ha-extron-sw6vga", 
+  "requirements": ["pyserial>=3.5"],
+  "codeowners": ["@schlarpc"],
+  "iot_class": "local_push"
+}
